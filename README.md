@@ -1,1 +1,2 @@
 # School-Management-System
+This project offers a consolidated platform for managing and accessing data about academics, attendance, grades, and other school-related activities for administrators, instructors, students, and parents. It allows administrators to manage student information, makes it easier to handle staff details, supports academic processes, and it also  record and monitor student and staff attendance. This project is mainly developed by using object-oriented programming concepts of java and database management.
